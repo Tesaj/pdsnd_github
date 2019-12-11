@@ -24,7 +24,11 @@ def choice(prompt, choices=('y', 'n')):
         if choice == 'end':
             raise SystemExit
 <<<<<<< HEAD
+<<<<<<< HEAD
         # triggers if the input has only one name  and only one name 
+=======
+        # triggers if the input has only one name
+>>>>>>> refactoring
 =======
         # triggers if the input has only one name
 >>>>>>> refactoring
