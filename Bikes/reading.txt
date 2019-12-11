@@ -1,0 +1,2 @@
+https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+https://towardsdatascience.com/how-to-understand-numpy-documentation-897d5307609b
